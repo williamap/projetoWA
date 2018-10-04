@@ -1,0 +1,2 @@
+# projetoWA
+iniciando o projetoWA
